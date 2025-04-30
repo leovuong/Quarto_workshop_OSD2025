@@ -1153,7 +1153,7 @@ The slides and materials for this workshop were heavily based on other existing 
 
 - [Quarto official documentation](https://quarto.org/)
 
-- [Getting Started with Quarto](https://jthomasmock.github.io/quarto-2hr-webinar/) by Tom Mock - CC BY 4.0
+- [Getting Started with Quarto](https://jthomasmock.github.io/quarto-2hr-webinar/) by Tom Mock (CC BY 4.0)
 
 - [Quarto workshop](https://lbbe.pages.in2p3.fr/poleinfo/quarto_workshop/) by Julien Barnier and Aurélie Siberchicot
 
