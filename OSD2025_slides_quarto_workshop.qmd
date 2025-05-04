@@ -272,7 +272,7 @@ Many of Shakespeare’s plays were printed in quarto format before being collect
 ## Who are we? 
 
 ::::: columns
-::: {.column style="text-align: center;"}
+::: {.column style="text-align: center; font-size:35px;"}
 ![](figs/eline_vangeert.jpg){style="margin-bottom:-40px;" fig-align="center" height="350"}
 
 **Eline Van Geert**
@@ -292,7 +292,7 @@ Many of Shakespeare’s plays were printed in quarto format before being collect
 
 :::
 
-::: {.column style="text-align: center;"}
+::: {.column style="text-align: center; font-size:35px;"}
 ![](figs/lisa_kossmann.png){style="margin-bottom:-40px;" fig-align="center" height="350"}
 
 **Lisa Koßmann**
@@ -307,7 +307,7 @@ Many of Shakespeare’s plays were printed in quarto format before being collect
 
 `r fa("bluesky")` [lisa-kossmann](https://bsky.app/profile/lisa-kossmann.bsky.social)
 
-`r fa("linkedin")` [Lisa Koßmann](https://www.linkedin.com/in/lisa-ko%C3%9Fmann/)
+`r fa("globe")` [lisa-kossmann.github.io](https://lisa-kossmann.github.io/)
 
 :::
 :::
@@ -1205,7 +1205,7 @@ Thank you very much for providing these open resources!
 
 `r fa("bluesky")` [lisa-kossmann.bsky.social](https://bsky.app/profile/lisa-kossmann.bsky.social)
 
-`r fa("linkedin")` [Lisa Koßmann](https://www.linkedin.com/in/lisa-ko%C3%9Fmann/)
+`r fa("globe")` [lisa-kossmann.github.io](https://lisa-kossmann.github.io/)
 
 `r fa("envelope")` [lisa.kossmann@kuleuven.be](mailto:lisa.kossmann@kuleuven.be)
 
