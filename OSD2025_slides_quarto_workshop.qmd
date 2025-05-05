@@ -40,7 +40,21 @@ library(knitr)
 
 - Open your favorite local editor (VS Code / Jupyter / RStudio) or join online via [RStudio Cloud](https://posit.cloud/spaces/646893/join?access_code=jsG1zsRPE-npgRaiPHC-_xlBIbJwmnEIn4ejLM1z)
 
-. . .
+::: notes
+
+Quarto is bundled and comes pre-installed with RStudio v2022.07.1 and beyond!
+
+- [Posit Cloud website](https://posit.cloud/)
+- More installation info: [https://qmd4sci.njtierney.com/installation.html](https://qmd4sci.njtierney.com/installation.html)
+
+Print to PDF: https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf
+
+python or python3 instead of py for Mac/Linux
+
+:::
+
+
+## Get started
 
 - When using R, install the following packages: 
 
@@ -59,6 +73,11 @@ install.packages(pkg_list)
 py -m pip install jupyter numpy matplotlib palmerpenguins tabulate IPython
 py -m pip install jupyterlab                # only when working with Jupyter Lab
 py -m jupyter lab test.ipynb                # only when working with Jupyter Lab
+```
+- For Python use combined with R, install these packages using the R package reticulate:
+
+``` r
+reticulate::py_install(c("matplotlib", "palmerpenguins", "tabulate", "IPython"))
 ```
 
 ::: notes
