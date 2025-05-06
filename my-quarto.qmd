@@ -35,3 +35,23 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+## Add equations
+Formula for population mean: 12
+$$
+\mu = \frac{\sum x}{N}
+$$
+
+```{r}
+#| label: fig-scatterplot
+#| fig-cap: "Scatterplot of flipper and bill lengths"
+library(palmerpenguins) # for data
+library(tidyverse) # for data wrangling and visualizatio
+library(knitr) # for tables
+ggplot(data = penguins,
+aes(x = flipper_length_mm,
+y = bill_length_mm)) +
+geom_point(aes(color = species,
+shape = species))
+```
+The palmerpenguins package contains data for `{r} nrow(penguins)` penguins.
